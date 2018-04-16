@@ -18,3 +18,5 @@ Unit test outline occurs at the bottom of the class. One for the game logic, one
 I would normally use something like JUnit for the unit tests.
 
 Also, I might restructure the code to take command line input line by line etc, if i had more time.
+
+Source code is in Program.cs
