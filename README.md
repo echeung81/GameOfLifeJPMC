@@ -1,7 +1,7 @@
 This is the Game of Life coding exercise for Edward Cheung. I did this in C# sharp as I was time limited and I was most quickly setup for the C# environment under Visual Studio
 
 To build:
-Open the GameOfLife.sln file and build in debug mode.
+Open the GameOfLife.sln file and build in debug mode in Visual Studio
 
 To run:
 Go into the bin/debug directory. Then:
