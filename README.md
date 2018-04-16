@@ -1,5 +1,10 @@
-This is the Game of Life coding exercise for Edward Cheung.
-To run, go into the bin/debug directory. Then:
+This is the Game of Life coding exercise for Edward Cheung. I did this in C# sharp as I was time limited and I was most quickly setup for the C# environment under Visual Studio
+
+To build:
+Open the GameOfLife.sln file and build in debug mode.
+
+To run:
+Go into the bin/debug directory. Then:
 
 1. Edit the input.txt file.
 First line is: number of generations to run the game
